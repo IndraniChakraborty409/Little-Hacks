@@ -35,4 +35,9 @@ https://indranichakraborty409.github.io/Little-Hacks/
     
 ## Screenshots
 ![2021-07-11 (3)](https://user-images.githubusercontent.com/85691698/125192717-ed420300-e266-11eb-833a-04d97d5fa8de.png)
+![2021-07-11 (4)](https://user-images.githubusercontent.com/85691698/125192771-1b274780-e267-11eb-9caf-52fd4d74558b.png)
+![2021-07-11 (5)](https://user-images.githubusercontent.com/85691698/125192781-24b0af80-e267-11eb-9efa-218583a82865.png)
+![2021-07-11 (7)](https://user-images.githubusercontent.com/85691698/125192792-34c88f00-e267-11eb-98ca-c0ef2eecc9fd.png)
+![2021-07-11 (8)](https://user-images.githubusercontent.com/85691698/125192823-4f9b0380-e267-11eb-9d3d-3ce450655f76.png)
+
 
