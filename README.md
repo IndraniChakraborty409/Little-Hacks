@@ -18,6 +18,10 @@ We have tried to provide the solutions for the above discussed problems by build
 2. Our facility will allow people to search for a particular product in a given location so that they can also fetch it themselves.
 3. 24*7 online AI heath care chatbot .
 
+## Development
+1. We have just implemented the structure of our idea in these 48 hours as github dosen't support backend moreover it was not possiible to integrate the backend too in this short span . However we have developed a rough idea on backend using xaamp on our local host and intend to include this feature into our project in future.
+2. We have also added the infant section as suggested by the judges.
+
 ## Installation
 Step1:- Download the files and codes provided in our repository.
 
