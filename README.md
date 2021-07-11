@@ -39,5 +39,14 @@ https://indranichakraborty409.github.io/Little-Hacks/
 ![2021-07-11 (5)](https://user-images.githubusercontent.com/85691698/125192781-24b0af80-e267-11eb-9efa-218583a82865.png)
 ![2021-07-11 (7)](https://user-images.githubusercontent.com/85691698/125192792-34c88f00-e267-11eb-98ca-c0ef2eecc9fd.png)
 ![2021-07-11 (8)](https://user-images.githubusercontent.com/85691698/125192823-4f9b0380-e267-11eb-9d3d-3ce450655f76.png)
+![2021-07-11 (9)](https://user-images.githubusercontent.com/85691698/125192857-75280d00-e267-11eb-9566-65dd64eb2542.png)
+![2021-07-11 (10)](https://user-images.githubusercontent.com/85691698/125192862-7b1dee00-e267-11eb-84cb-0bf09a279414.png)
+![2021-07-11 (11)](https://user-images.githubusercontent.com/85691698/125192877-81ac6580-e267-11eb-8953-7c45a36ef818.png)
+![2021-07-11 (12)](https://user-images.githubusercontent.com/85691698/125192887-883add00-e267-11eb-8448-aafad5b1b91e.png)
+![2021-07-11 (13)](https://user-images.githubusercontent.com/85691698/125192900-97ba2600-e267-11eb-898b-266f5e8aad3d.png)
+![2021-07-11 (14)](https://user-images.githubusercontent.com/85691698/125192905-9db00700-e267-11eb-98cb-a0d72034b33d.png)
+![2021-07-11 (15)](https://user-images.githubusercontent.com/85691698/125192910-a274bb00-e267-11eb-9a17-97f3837b1b5b.png)
+![2021-07-11 (16)](https://user-images.githubusercontent.com/85691698/125192919-aa345f80-e267-11eb-90b9-bf8e25c2ea88.png)
+![2021-07-11 (6)](https://user-images.githubusercontent.com/85691698/125192926-b3bdc780-e267-11eb-8ae6-f6b445721637.png)
 
 
